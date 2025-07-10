@@ -7,11 +7,11 @@ HTML과 CSS만으로 구현되었으며, 모바일부터 데스크탑까지 자�
 
 ## 📸 데스크탑 미리보기
 
-> (./images/desktop-preview.jpg)*
+![데스크탑 미리보기](./images/desktop-preview.JPG)
 
 ## 📸 모바일 미리보기
 
-> (./images/mobile-preview.jpg)*
+![모바일 미리보기](./images/mobile-preview.JPG)
 
 ---
 
@@ -59,4 +59,4 @@ responsive-web/
 
 ## 👤 개발자
 
-- GitHub: [your-github-id]
+- GitHub: [[your-github-id](https://github.com/noooopa)]
