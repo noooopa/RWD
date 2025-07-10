@@ -59,4 +59,4 @@ responsive-web/
 
 ## 👤 개발자
 
-- GitHub: [[your-github-id](https://github.com/noooopa)]
+- GitHub: [[noooopa](https://github.com/noooopa)]
